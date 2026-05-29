@@ -1,0 +1,501 @@
+CustomerID,Name,Email,Phone,Purchase_Amount,Purchase_Date,Country,Status,Age
+309,Eve Davis,customer309@example.com,555-0102,648.101184119564,2023-08-01,Canada,Inactive,26.0
+96,Henry Wilson,customer96@example.com,(555) 0103,611.8154498563161,2023-03-01,UK,Pending,19.0
+235,Charlie Brown,customer235@example.com,555-0102,773.2022632936278,2023-10-18,Usa,Inactive,29.0
+12,Frank Miller,customer12@example.com,,637.4209780829755,2023-03-15,,pending,46.0
+256,Bob Johnson,customer256@example.com,,843.114363706943,2023-11-26,Usa,pending,68.0
+456,Henry Wilson,customer456@example.com,555-0101,137.16423091225943,2023-04-28,,Inactive,70.0
+445,Frank Miller,customer445@example.com,555-01-04,560.6199176893595,2023-05-23,Canada,Active,38.0
+23,Henry Wilson,customer23@example.com,,581.7114081970644,2023-07-13,united kingdom,inactive,55.0
+421,Alice Williams,customer421@example.com,555.0105,665.490890005499,2023-09-03,UK,inactive,65.0
+160,Frank Miller,customer160@example.com,555-0101,204.15196869651828,2023-08-27,Canada,Inactive,35.0
+394,Henry Wilson,customer394@example.com,555-0101,895.9722268155615,2023-03-11,Canada,pending,30.0
+110,Bob Johnson,customer110@example.com,555.0105,42.51820354100396,2023-01-08,Usa,inactive,33.0
+303,John Smith,customer303@example.com,,427.5450331332074,2023-03-02,,inactive,77.0
+172,John Smith,customer172@example.com,555.0105,963.0228253693259,2023-05-01,UK,pending,48.0
+113,Charlie Brown,customer113@example.com,555-0102,581.8556345506317,2023-07-18,Usa,Active,58.0
+415,Alice Williams,customer415@example.com,555.0105,991.5605817935976,2023-02-13,Canada,Inactive,42.0
+201,Diana Prince,customer201@example.com,,985.5136391193173,2023-08-02,UK,inactive,66.0
+242,Bob Johnson,customer242@example.com,555-0101,77.56720830055066,2023-05-08,UK,,63.0
+106,Charlie Brown,customer106@example.com,(555) 0103,471.04312109562505,2023-11-15,Usa,Inactive,44.0
+454,John Smith,customer454@example.com,555-0101,18.981680606197713,2023-03-19,,Active,71.0
+403,Eve Davis,customer403@example.com,555-0102,335.7608517161723,2023-12-18,united kingdom,Inactive,77.0
+31,Grace Lee,customer31@example.com,,339.48762805335946,2023-01-01,Usa,Inactive,25.0
+146,John Smith,customer146@example.com,555-0102,111.95166453800236,2023-05-28,Canada,ACTIVE,51.0
+94,Henry Wilson,customer94@example.com,555.0105,318.32982140518476,2023-06-25,Usa,pending,58.0
+34,Bob Johnson,customer34@example.com,555-01-04,175.06345239344932,2023-04-01,,inactive,57.0
+363,Diana Prince,customer363@example.com,(555) 0103,885.3569883501879,2023-02-21,Usa,,39.0
+489,Alice Williams,customer489@example.com,555-0101,944.8605986082516,2023-05-14,Canada,Pending,54.0
+488,Bob Johnson,customer488@example.com,555.0105,473.85402260089853,2023-08-08,Usa,Active,51.0
+255,Alice Williams,customer255@example.com,,170.39373911266875,2023-06-09,Usa,Inactive,
+240,Bob Johnson,customer240@example.com,555-0102,99.43359097183179,2023-09-01,,inactive,37.0
+442,Jane Doe,customer442@example.com,,236.33890990967427,2023-10-14,united kingdom,Active,20.0
+446,Jane Doe,customer446@example.com,(555) 0103,759.0694457470853,2023-07-02,,pending,45.0
+455,Frank Miller,customer455@example.com,(555) 0103,820.4926262948434,2023-10-26,Usa,inactive,27.0
+350,Jane Doe,customer350@example.com,555.0105,718.3977820818995,2023-02-25,,Active,40.0
+484,Grace Lee,customer484@example.com,555-0101,820.5977869235228,2023-04-12,Canada,inactive,70.0
+398,Diana Prince,customer398@example.com,555-0101,280.2297811077518,2023-12-30,Usa,Inactive,54.0
+83,Frank Miller,customer83@example.com,555.0105,78.2323239735466,2023-04-20,,,47.0
+175,Frank Miller,customer175@example.com,555-01-04,412.3283851907868,2023-02-23,Usa,,47.0
+346,Frank Miller,customer346@example.com,,13.31289842254943,2023-10-23,Usa,inactive,
+215,Grace Lee,customer215@example.com,555-0102,686.3520178810265,2023-02-18,UK,Active,
+263,Diana Prince,customer263@example.com,,358.02475952287665,2023-04-30,,,65.0
+63,Jane Doe,customer63@example.com,,828.5308395309876,2023-12-10,Usa,Active,58.0
+131,Alice Williams,customer131@example.com,555-0101,432.5210162833819,2023-08-03,Usa,Inactive,70.0
+329,John Smith,customer329@example.com,555.0105,10.235148340125734,2023-02-10,Usa,Active,48.0
+61,Alice Williams,customer61@example.com,,719.0172839856226,2023-05-07,Canada,,56.0
+18,Frank Miller,customer18@example.com,(555) 0103,716.6446303067727,2023-02-28,UK,inactive,39.0
+195,Diana Prince,customer195@example.com,,862.4573397749743,2023-01-19,Usa,Active,46.0
+127,Alice Williams,customer127@example.com,(555) 0103,192.61824270466752,2023-10-08,Usa,Pending,71.0
+468,Jane Doe,customer468@example.com,,174.71381106294962,2023-11-24,UK,Pending,42.0
+301,Charlie Brown,customer301@example.com,(555) 0103,200.67303750777413,2023-06-24,,ACTIVE,25.0
+435,Henry Wilson,customer435@example.com,555-0101,197.32932438715582,2023-03-29,,pending,62.0
+124,Eve Davis,customer124@example.com,(555) 0103,561.7323152011475,2023-11-05,Canada,Active,55.0
+279,Diana Prince,customer279@example.com,(555) 0103,526.0876607394337,2023-12-14,,inactive,38.0
+267,John Smith,customer267@example.com,555-0102,465.0846976335198,2023-05-19,,inactive,55.0
+490,Jane Doe,customer490@example.com,555-01-04,111.1716834967818,2023-05-22,Usa,Active,23.0
+432,Henry Wilson,customer432@example.com,(555) 0103,930.7894470046413,2023-05-05,UK,,55.0
+248,Frank Miller,customer248@example.com,,949.813729087188,2023-10-02,united kingdom,pending,69.0
+8,Eve Davis,customer8@example.com,555.0105,801.5417596103205,2023-04-24,UK,Pending,38.0
+19,Diana Prince,customer19@example.com,555-0101,900.6707708392514,2023-03-16,Canada,Active,62.0
+417,Henry Wilson,customer417@example.com,555.0105,884.0772064460866,2023-01-08,Canada,ACTIVE,29.0
+483,Charlie Brown,customer483@example.com,555-0101,378.11519394633734,2023-11-16,UK,Inactive,44.0
+161,Diana Prince,customer161@example.com,555-0101,510.45280031497344,2023-04-24,Usa,ACTIVE,52.0
+360,John Smith,customer360@example.com,,266.39282508579555,2023-04-04,united kingdom,Active,45.0
+399,Grace Lee,customer399@example.com,555-01-04,481.9100600470647,2023-06-12,,Inactive,34.0
+498,Eve Davis,customer498@example.com,555-0101,140.02177514528427,2023-06-07,Usa,,29.0
+194,John Smith,customer194@example.com,,369.130315719286,2023-03-26,Usa,inactive,35.0
+30,Alice Williams,customer30@example.com,(555) 0103,437.2128617050782,2023-06-18,united kingdom,ACTIVE,44.0
+317,Bob Johnson,customer317@example.com,555-01-04,410.44059518503224,2023-11-10,,pending,62.0
+441,Eve Davis,customer441@example.com,555-0102,821.7474482340191,2023-03-01,UK,pending,35.0
+60,Henry Wilson,customer60@example.com,555-0102,569.853263849744,2023-03-18,Usa,pending,76.0
+244,Frank Miller,customer244@example.com,(555) 0103,442.8214623936711,2023-08-09,Usa,inactive,34.0
+461,Eve Davis,customer461@example.com,555.0105,398.2296993307446,2023-07-29,Usa,Pending,30.0
+467,Henry Wilson,customer467@example.com,,947.8249093737746,2023-02-20,Usa,,52.0
+486,Bob Johnson,customer486@example.com,555.0105,11.019185047177062,2023-01-01,Usa,Pending,76.0
+209,Henry Wilson,customer209@example.com,,225.84287641914563,2023-07-31,,Inactive,68.0
+482,Henry Wilson,customer482@example.com,555-0101,823.2978179333666,2023-12-08,united kingdom,Pending,75.0
+32,Bob Johnson,customer32@example.com,555-01-04,733.2436454412084,2023-08-07,Canada,Active,
+101,Jane Doe,customer101@example.com,,607.6843164128376,2023-06-24,Usa,,31.0
+142,Eve Davis,customer142@example.com,555.0105,539.1113323446745,2023-06-20,Usa,,74.0
+185,Bob Johnson,customer185@example.com,555.0105,911.5177635049009,2023-10-13,,ACTIVE,23.0
+304,Charlie Brown,customer304@example.com,,797.3884195795065,2023-08-14,Usa,inactive,18.0
+33,Charlie Brown,customer33@example.com,,696.7804313293051,2023-08-10,Canada,Active,74.0
+246,Frank Miller,customer246@example.com,555.0105,724.3175325106865,2023-11-13,united kingdom,Pending,43.0
+306,John Smith,customer306@example.com,555-01-04,64.33378850001017,2023-09-02,Canada,Pending,52.0
+405,Diana Prince,customer405@example.com,,737.8605279782182,2023-10-03,,Active,27.0
+433,Henry Wilson,customer433@example.com,555.0105,114.77575289029815,2023-05-20,Canada,,71.0
+132,Eve Davis,customer132@example.com,555.0105,801.7842018535267,2023-01-11,,Active,47.0
+354,Grace Lee,customer354@example.com,555-0102,54.64967044811995,2023-07-15,Usa,,71.0
+282,Diana Prince,customer282@example.com,555-0102,760.8084898062247,2023-10-25,Canada,ACTIVE,52.0
+190,Eve Davis,customer190@example.com,555-01-04,43.88582971232383,2023-07-17,,ACTIVE,54.0
+143,Grace Lee,customer143@example.com,(555) 0103,486.2770689037101,2023-11-02,,ACTIVE,50.0
+50,Frank Miller,customer50@example.com,555-0102,385.0333499013465,2023-10-04,united kingdom,ACTIVE,
+41,Grace Lee,customer41@example.com,555-0102,709.9106566310245,2023-06-08,Canada,inactive,78.0
+341,Eve Davis,customer341@example.com,555-0101,404.3045101358792,2023-04-04,Usa,inactive,30.0
+136,Henry Wilson,customer136@example.com,555.0105,383.9486879657676,2023-10-17,Usa,Active,61.0
+264,Bob Johnson,customer264@example.com,555.0105,418.66561510068476,2023-08-19,Usa,pending,62.0
+254,Frank Miller,customer254@example.com,555-0102,544.4443511191115,2023-12-04,united kingdom,inactive,44.0
+270,Charlie Brown,customer270@example.com,555.0105,12.315996719520477,2023-07-19,Canada,ACTIVE,64.0
+276,John Smith,customer276@example.com,555-0101,962.4777979064764,2023-10-05,Usa,Active,27.0
+183,John Smith,customer183@example.com,555-01-04,646.4963079781107,2023-05-11,Usa,Pending,68.0
+150,Grace Lee,customer150@example.com,555-0102,279.5788361730964,2023-07-07,Canada,ACTIVE,24.0
+121,Henry Wilson,customer121@example.com,,520.0219455827445,2023-03-05,Usa,,42.0
+179,Jane Doe,customer179@example.com,555.0105,738.5455670640423,2023-04-03,united kingdom,inactive,43.0
+375,Eve Davis,customer375@example.com,555-0101,390.2497053763371,2023-11-27,Usa,Active,35.0
+202,John Smith,customer202@example.com,555-0101,476.35479816687626,2023-09-09,united kingdom,,
+288,Charlie Brown,customer288@example.com,555.0105,904.3301745096647,2023-05-24,united kingdom,Pending,36.0
+338,Grace Lee,customer338@example.com,555.0105,484.98351358793974,2023-11-27,Usa,Inactive,34.0
+54,Jane Doe,customer54@example.com,555-01-04,544.4620307417083,2023-10-01,Usa,,54.0
+81,Eve Davis,customer81@example.com,555-01-04,773.5342018345406,2023-08-14,Usa,,42.0
+59,Diana Prince,customer59@example.com,555-0101,602.4582741931747,2023-06-26,Canada,ACTIVE,68.0
+330,Grace Lee,customer330@example.com,,193.61818048095523,2023-01-01,Usa,,51.0
+104,Eve Davis,customer104@example.com,555.0105,864.8829592068274,2023-06-21,Usa,Pending,45.0
+414,John Smith,customer414@example.com,555.0105,895.5351316583867,2023-05-20,united kingdom,pending,64.0
+100,Frank Miller,customer100@example.com,555-0101,789.9119898273475,2023-08-26,,Pending,27.0
+28,Bob Johnson,customer28@example.com,(555) 0103,236.7351370155484,2023-12-20,UK,,29.0
+251,Frank Miller,customer251@example.com,555-01-04,143.65126464699486,2023-02-09,UK,pending,79.0
+457,Jane Doe,customer457@example.com,(555) 0103,290.5095187829258,2023-01-09,Usa,inactive,61.0
+158,Bob Johnson,customer158@example.com,,556.2053693067463,2023-08-30,Canada,pending,46.0
+222,Grace Lee,customer222@example.com,555.0105,502.4902450400917,2023-02-26,Canada,,
+137,Grace Lee,customer137@example.com,,838.1991651594095,2023-08-28,Canada,ACTIVE,58.0
+424,Eve Davis,customer424@example.com,,736.5708197641648,2023-10-15,united kingdom,pending,
+250,John Smith,customer250@example.com,555-0101,954.5460671742368,2023-04-16,Canada,pending,50.0
+366,John Smith,customer366@example.com,555-0102,989.2930607152254,2023-09-04,Usa,Inactive,21.0
+440,Frank Miller,customer440@example.com,555-0101,15.09371904716762,2023-11-15,Canada,Active,53.0
+412,Grace Lee,customer412@example.com,555.0105,962.5007528661293,2023-12-25,UK,Active,28.0
+212,Alice Williams,customer212@example.com,555-01-04,140.95344901407708,2023-05-06,Usa,ACTIVE,61.0
+464,Frank Miller,customer464@example.com,,790.9189120520368,2023-06-24,Canada,Active,19.0
+377,Alice Williams,customer377@example.com,555-0102,957.6975603534923,2023-04-07,,Active,67.0
+234,John Smith,customer234@example.com,555-0102,410.33768653353405,2023-02-11,Usa,Inactive,64.0
+328,Frank Miller,customer328@example.com,,990.4379002083593,2023-07-12,Usa,Inactive,73.0
+429,Alice Williams,customer429@example.com,(555) 0103,168.7961042767714,2023-01-24,Canada,,19.0
+115,John Smith,customer115@example.com,555-01-04,43.54036864412904,2023-01-30,Usa,ACTIVE,52.0
+387,Charlie Brown,customer387@example.com,,496.2744774599403,2023-01-26,UK,Inactive,36.0
+321,Diana Prince,customer321@example.com,555-0101,665.0386233297361,2023-10-17,UK,inactive,33.0
+157,John Smith,customer157@example.com,(555) 0103,413.90465041119626,2023-07-31,Usa,,36.0
+65,Jane Doe,customer65@example.com,555-01-04,349.099014606758,2023-07-14,Canada,pending,30.0
+112,Bob Johnson,customer112@example.com,555.0105,255.74417832958036,2023-05-02,UK,Pending,19.0
+452,Bob Johnson,customer452@example.com,,124.68541821245508,2023-09-21,UK,pending,74.0
+453,John Smith,customer453@example.com,(555) 0103,382.9284083669308,2023-02-21,united kingdom,,66.0
+272,Frank Miller,customer272@example.com,(555) 0103,15.201280372801065,2023-01-06,Canada,,48.0
+459,Jane Doe,customer459@example.com,555-0102,437.91837605358717,2023-03-23,,ACTIVE,70.0
+384,Henry Wilson,customer384@example.com,555-0101,529.7811858516654,2023-06-11,UK,Active,45.0
+333,Henry Wilson,customer333@example.com,555-0101,79.32940868999631,2023-08-05,UK,,72.0
+233,Jane Doe,customer233@example.com,555-0102,839.7258935465128,2023-10-08,Usa,Pending,62.0
+381,John Smith,customer381@example.com,555-0101,224.16078280618797,2023-05-14,Canada,,61.0
+307,Alice Williams,customer307@example.com,555-0102,460.5922481857945,2023-12-06,united kingdom,ACTIVE,
+383,Bob Johnson,customer383@example.com,(555) 0103,601.3013317060377,2023-08-14,Usa,Inactive,46.0
+167,Henry Wilson,customer167@example.com,555-01-04,723.6049653474015,2023-05-25,UK,Pending,25.0
+359,Diana Prince,customer359@example.com,,800.0094289219495,2023-08-21,UK,ACTIVE,67.0
+6,Henry Wilson,customer6@example.com,(555) 0103,829.661478305717,2023-10-05,Usa,Pending,69.0
+436,John Smith,customer436@example.com,555.0105,882.8207614426467,2023-07-06,united kingdom,pending,51.0
+153,Diana Prince,customer153@example.com,(555) 0103,802.7422737712599,2023-06-09,Canada,Pending,
+475,Jane Doe,customer475@example.com,(555) 0103,990.2468890231406,2023-06-24,UK,pending,60.0
+129,Eve Davis,customer129@example.com,555-0102,316.8375570059248,2023-07-18,united kingdom,inactive,53.0
+428,Charlie Brown,customer428@example.com,555-0102,165.7672531055007,2023-02-28,Usa,inactive,48.0
+299,Bob Johnson,customer299@example.com,555.0105,129.3173529985998,2023-05-19,Usa,Active,54.0
+485,Frank Miller,customer485@example.com,,259.9836621914984,2023-11-07,,Active,59.0
+25,Grace Lee,customer25@example.com,555-01-04,397.5672890994869,2023-10-18,Usa,ACTIVE,42.0
+430,Jane Doe,customer430@example.com,(555) 0103,340.6687899577855,2023-02-12,,Active,33.0
+206,Alice Williams,customer206@example.com,555-0101,744.2700747863789,2023-01-07,Usa,Inactive,20.0
+207,Alice Williams,customer207@example.com,555-01-04,701.8573946292954,2023-04-28,Usa,Inactive,59.0
+27,Henry Wilson,customer27@example.com,,75.9529212669088,2023-11-29,Canada,pending,78.0
+105,Frank Miller,customer105@example.com,555-0101,923.7306294805,2023-09-29,Usa,Active,20.0
+261,Jane Doe,customer261@example.com,555-0102,479.4949356133659,2023-04-19,united kingdom,,24.0
+427,Diana Prince,customer427@example.com,555.0105,252.83267693278123,2023-07-04,united kingdom,Inactive,30.0
+451,Charlie Brown,customer451@example.com,(555) 0103,564.2458691857412,2023-07-14,Canada,Inactive,30.0
+42,Jane Doe,customer42@example.com,555-01-04,780.7862196602435,2023-12-26,united kingdom,,66.0
+345,John Smith,customer345@example.com,555-0101,734.9490891127987,2023-09-03,Usa,Inactive,36.0
+425,Henry Wilson,customer425@example.com,555-01-04,526.0477090586107,2023-11-12,Usa,,
+419,Charlie Brown,customer419@example.com,555.0105,907.4485822501342,2023-10-08,Usa,Active,59.0
+392,Charlie Brown,customer392@example.com,555.0105,750.3928880513063,2023-03-26,Canada,pending,32.0
+496,John Smith,customer496@example.com,555-01-04,775.0945522166364,2023-08-15,Canada,Pending,24.0
+228,Eve Davis,customer228@example.com,555.0105,734.8627326744718,2023-05-17,,pending,53.0
+284,Bob Johnson,customer284@example.com,(555) 0103,761.4454870834613,2023-02-24,united kingdom,pending,
+73,Jane Doe,customer73@example.com,555-0101,263.4553765351256,2023-09-11,Usa,ACTIVE,57.0
+257,Grace Lee,customer257@example.com,555.0105,847.9437708214117,2023-11-17,Canada,,70.0
+14,Bob Johnson,customer14@example.com,(555) 0103,323.03461647352964,2023-09-18,Usa,Inactive,21.0
+431,Alice Williams,customer431@example.com,,246.30313098800733,2023-03-24,UK,inactive,26.0
+229,Henry Wilson,customer229@example.com,555-0101,258.2233539559818,2023-01-07,Usa,inactive,36.0
+356,Diana Prince,customer356@example.com,555-0102,397.7138391349525,2023-04-24,,,37.0
+365,Charlie Brown,customer365@example.com,,904.6867275035178,2023-08-06,UK,Pending,
+331,Diana Prince,customer331@example.com,555-01-04,390.1242510205285,2023-08-21,Usa,pending,56.0
+197,Charlie Brown,customer197@example.com,555-01-04,974.8017925468812,2023-03-24,,inactive,64.0
+204,Diana Prince,customer204@example.com,555.0105,489.9305834788427,2023-06-25,united kingdom,Inactive,70.0
+438,Charlie Brown,customer438@example.com,,470.8153086822837,2023-04-13,united kingdom,Pending,25.0
+151,Bob Johnson,customer151@example.com,(555) 0103,898.4561057206954,2023-05-31,Usa,ACTIVE,54.0
+71,Frank Miller,customer71@example.com,555.0105,147.72503220163125,2023-12-23,Usa,inactive,62.0
+86,Frank Miller,customer86@example.com,555-0102,842.0352356606187,2023-08-17,UK,Inactive,64.0
+37,Grace Lee,customer37@example.com,555-01-04,744.046302027655,2023-02-28,united kingdom,pending,65.0
+118,Eve Davis,customer118@example.com,555-01-04,284.81130090312394,2023-06-02,Usa,,62.0
+109,Diana Prince,customer109@example.com,555-0101,591.1975418952015,2023-03-01,,Pending,20.0
+275,Bob Johnson,customer275@example.com,,809.3559492985936,2023-08-23,united kingdom,Pending,71.0
+36,Charlie Brown,customer36@example.com,555-01-04,500.46939013992596,2023-03-24,UK,Active,52.0
+80,Grace Lee,customer80@example.com,,654.8535388783637,2023-08-06,UK,Inactive,25.0
+294,Bob Johnson,customer294@example.com,,592.3811194002318,2023-06-07,Canada,ACTIVE,53.0
+339,Frank Miller,customer339@example.com,,584.9496351550545,2023-10-09,Canada,,47.0
+305,Bob Johnson,customer305@example.com,,747.6139026390182,2023-07-10,UK,Active,53.0
+247,John Smith,customer247@example.com,555.0105,614.3006203378781,2023-12-29,UK,inactive,65.0
+9,Frank Miller,customer9@example.com,555-01-04,826.8813499258692,2023-04-28,Usa,Inactive,
+474,Charlie Brown,customer474@example.com,555-0102,853.8905126066612,2023-02-14,UK,Inactive,46.0
+378,Jane Doe,customer378@example.com,555.0105,827.9436388360263,2023-08-24,,Inactive,25.0
+286,Frank Miller,customer286@example.com,555-01-04,640.859263991592,2023-03-31,Canada,Pending,64.0
+58,Diana Prince,customer58@example.com,555-0102,22.08104159486407,2023-01-07,,pending,38.0
+220,Frank Miller,customer220@example.com,555.0105,76.50364591655298,2023-03-10,united kingdom,Active,34.0
+371,Alice Williams,customer371@example.com,555-01-04,238.2635038469688,2023-05-05,,inactive,51.0
+192,Eve Davis,customer192@example.com,555-0101,351.7402234324628,2023-12-27,Usa,pending,52.0
+372,Diana Prince,customer372@example.com,(555) 0103,832.3360925731183,2023-10-26,Usa,pending,66.0
+344,Alice Williams,customer344@example.com,555-0101,527.2939997181778,2023-11-07,Canada,ACTIVE,70.0
+221,John Smith,customer221@example.com,555-0101,411.19560714741186,2023-09-24,Canada,,41.0
+290,John Smith,customer290@example.com,555-0102,696.2434593423554,2023-09-30,Canada,Pending,43.0
+295,John Smith,customer295@example.com,,999.3599645701765,2023-11-24,Canada,pending,42.0
+369,Charlie Brown,customer369@example.com,,407.5644340612326,2023-09-22,Usa,Pending,29.0
+385,Eve Davis,customer385@example.com,(555) 0103,267.631034272012,2023-10-31,,pending,28.0
+292,Bob Johnson,customer292@example.com,555.0105,673.2182899045388,2023-07-10,Usa,inactive,24.0
+379,Henry Wilson,customer379@example.com,(555) 0103,802.7619902585764,2023-08-06,united kingdom,inactive,58.0
+139,Diana Prince,customer139@example.com,,301.10423242876186,2023-04-14,Canada,pending,40.0
+174,John Smith,customer174@example.com,,149.67103028993643,2023-09-02,Canada,pending,67.0
+287,Jane Doe,customer287@example.com,555-0102,980.7710321781883,2023-06-23,,,52.0
+62,Diana Prince,customer62@example.com,555-0102,603.0390711295532,2023-10-11,Canada,ACTIVE,72.0
+186,Jane Doe,customer186@example.com,555-0101,628.5136583328185,2023-09-15,Usa,inactive,76.0
+253,Diana Prince,customer253@example.com,555.0105,277.21211016827294,2023-10-07,Canada,Active,32.0
+343,Alice Williams,customer343@example.com,(555) 0103,343.0067591901378,2023-09-25,Usa,ACTIVE,36.0
+434,Bob Johnson,customer434@example.com,,702.0008306591918,2023-05-07,Usa,inactive,73.0
+319,Frank Miller,customer319@example.com,555-01-04,805.9372096068887,2023-03-09,united kingdom,Pending,62.0
+285,Diana Prince,customer285@example.com,(555) 0103,726.8622959804072,2023-07-12,united kingdom,pending,74.0
+149,Alice Williams,customer149@example.com,555-0102,755.7137585399763,2023-05-17,,ACTIVE,54.0
+55,Frank Miller,customer55@example.com,555.0105,491.4939071756517,2023-02-23,,Inactive,66.0
+208,Bob Johnson,customer208@example.com,555-01-04,408.52454316101074,2023-12-22,Usa,Pending,49.0
+401,Charlie Brown,customer401@example.com,(555) 0103,853.6715980135377,2023-07-31,Usa,,46.0
+402,John Smith,customer402@example.com,555-0102,45.06814473435962,2023-02-02,united kingdom,pending,50.0
+95,Eve Davis,customer95@example.com,555-0102,235.1216646683415,2023-01-15,Canada,Active,56.0
+312,Jane Doe,customer312@example.com,555-01-04,565.0704220634789,2023-05-26,Usa,pending,21.0
+423,Charlie Brown,customer423@example.com,,865.847951504275,2023-04-04,Usa,,58.0
+439,Alice Williams,customer439@example.com,555.0105,880.2807654258503,2023-12-10,Usa,inactive,24.0
+352,Diana Prince,customer352@example.com,(555) 0103,284.49298923980587,2023-11-14,Canada,inactive,79.0
+245,Diana Prince,customer245@example.com,555-01-04,916.3585405189949,2023-04-27,Usa,Inactive,36.0
+144,Eve Davis,customer144@example.com,(555) 0103,502.0418293330365,2023-03-28,Canada,Pending,41.0
+281,Diana Prince,customer281@example.com,555-0101,958.589085073891,2023-11-30,Usa,inactive,41.0
+15,Diana Prince,customer15@example.com,555-01-04,592.4236090371061,2023-07-25,Canada,Pending,72.0
+390,Eve Davis,customer390@example.com,555-0102,468.7469407334637,2023-08-05,Usa,Inactive,51.0
+400,Frank Miller,customer400@example.com,555.0105,53.932896897904406,2023-05-02,Canada,pending,75.0
+26,John Smith,customer26@example.com,555-01-04,536.5389048912922,2023-04-18,,inactive,34.0
+236,Charlie Brown,customer236@example.com,555.0105,427.8156989551805,2023-12-02,,ACTIVE,38.0
+266,Alice Williams,customer266@example.com,,602.303197685473,2023-07-25,Usa,ACTIVE,
+90,Bob Johnson,customer90@example.com,555-01-04,173.86530526361688,2023-08-30,UK,Pending,36.0
+391,Grace Lee,customer391@example.com,(555) 0103,626.7080091057675,2023-09-06,,ACTIVE,61.0
+213,Eve Davis,customer213@example.com,555-01-04,901.5665782240218,2023-07-14,Usa,inactive,28.0
+470,Grace Lee,customer470@example.com,555.0105,711.4862845566031,2023-04-26,Canada,Active,34.0
+389,Charlie Brown,customer389@example.com,555-01-04,898.4617865657418,2023-04-09,Usa,Inactive,44.0
+177,John Smith,customer177@example.com,555-0102,96.05576480084582,2023-08-03,Canada,,62.0
+53,Alice Williams,customer53@example.com,,507.26546398790487,2023-09-22,Canada,inactive,26.0
+85,Frank Miller,customer85@example.com,555-0102,113.2044963912914,2023-12-12,united kingdom,ACTIVE,66.0
+283,Diana Prince,customer283@example.com,555-0101,642.5598914809192,2023-02-09,Usa,ACTIVE,73.0
+76,Henry Wilson,customer76@example.com,(555) 0103,111.1905375829476,2023-09-02,UK,Pending,29.0
+347,Bob Johnson,customer347@example.com,555-01-04,472.63765887227606,2023-10-07,Canada,,42.0
+10,Charlie Brown,customer10@example.com,,194.54093692026265,2023-09-22,UK,ACTIVE,55.0
+316,Henry Wilson,customer316@example.com,555-0102,446.62184013068,2023-02-14,Canada,ACTIVE,77.0
+230,Grace Lee,customer230@example.com,555-0101,636.767082723873,2023-03-31,Canada,ACTIVE,
+188,Henry Wilson,customer188@example.com,555-0101,826.8562581084332,2023-11-12,UK,Active,
+426,Henry Wilson,customer426@example.com,(555) 0103,869.4791960110315,2023-08-11,Usa,Active,30.0
+265,Grace Lee,customer265@example.com,,707.8762941920635,2023-08-11,UK,Pending,36.0
+411,Diana Prince,customer411@example.com,555-01-04,537.2764942067545,2023-04-20,,pending,41.0
+126,Alice Williams,customer126@example.com,,539.719021744322,2023-09-26,Usa,Pending,38.0
+210,Bob Johnson,customer210@example.com,,648.6036260916361,2023-04-03,united kingdom,Inactive,63.0
+477,Alice Williams,customer477@example.com,555-01-04,451.49872394021827,2023-03-26,,Pending,77.0
+191,Alice Williams,customer191@example.com,555-0102,832.3479614995972,2023-01-13,Usa,Active,59.0
+410,Charlie Brown,customer410@example.com,555-0101,58.295745856441364,2023-01-01,,,50.0
+43,Henry Wilson,customer43@example.com,,151.69670569298492,2023-02-24,Canada,,63.0
+409,Bob Johnson,customer409@example.com,555-0101,698.7571499212527,2023-10-27,Usa,pending,30.0
+159,Henry Wilson,customer159@example.com,555.0105,261.34967840287123,2023-02-04,UK,inactive,77.0
+99,Grace Lee,customer99@example.com,555-0101,213.52401029188113,2023-08-05,Usa,ACTIVE,68.0
+193,Frank Miller,customer193@example.com,555.0105,776.0961779693268,2023-02-14,Usa,Inactive,
+413,Charlie Brown,customer413@example.com,555-01-04,118.37417145390936,2023-06-23,,Inactive,34.0
+111,John Smith,customer111@example.com,555-01-04,913.6219682503375,2023-08-27,Usa,Active,57.0
+164,Alice Williams,customer164@example.com,(555) 0103,573.7490825858654,2023-01-04,united kingdom,,66.0
+364,Diana Prince,customer364@example.com,555-01-04,604.7904619777761,2023-04-11,united kingdom,,47.0
+397,Jane Doe,customer397@example.com,555-0102,397.258068419576,2023-05-13,united kingdom,pending,68.0
+46,Charlie Brown,customer46@example.com,,499.04167225955405,2023-05-25,Usa,inactive,60.0
+102,John Smith,customer102@example.com,555-01-04,123.12462705513087,2023-08-13,Canada,,68.0
+223,Grace Lee,customer223@example.com,555-0101,723.0005558159728,2023-03-27,Usa,pending,54.0
+298,Diana Prince,customer298@example.com,,319.7263079405317,2023-08-27,Canada,inactive,32.0
+21,Charlie Brown,customer21@example.com,555.0105,544.3832512954867,2023-02-26,UK,ACTIVE,72.0
+203,Grace Lee,customer203@example.com,555-01-04,190.2860674333674,2023-05-26,UK,Active,51.0
+97,Grace Lee,customer97@example.com,(555) 0103,385.5126414016934,2023-06-10,Canada,,
+388,Henry Wilson,customer388@example.com,555-0101,996.372418048657,2023-08-22,UK,,26.0
+29,Eve Davis,customer29@example.com,555-0101,547.4208175072748,2023-03-09,,,23.0
+437,Frank Miller,customer437@example.com,555.0105,961.7021353030583,2023-10-29,Canada,Pending,26.0
+481,Alice Williams,customer481@example.com,555-01-04,74.96988312827281,2023-08-05,,inactive,64.0
+260,Jane Doe,customer260@example.com,555.0105,627.0992253959408,2023-05-18,Usa,Pending,21.0
+368,Charlie Brown,customer368@example.com,,74.33654538806509,2023-06-12,united kingdom,Pending,25.0
+492,Eve Davis,customer492@example.com,(555) 0103,531.7538552497434,2023-03-12,Canada,,42.0
+125,John Smith,customer125@example.com,,862.0256977118266,2023-08-18,,Active,45.0
+182,Charlie Brown,customer182@example.com,555-01-04,877.6796351165409,2023-08-10,Usa,Inactive,
+64,Henry Wilson,customer64@example.com,555-01-04,959.4840466183875,2023-01-27,Usa,Pending,56.0
+147,Grace Lee,customer147@example.com,(555) 0103,341.01918319737734,2023-08-08,Usa,pending,73.0
+48,Alice Williams,customer48@example.com,(555) 0103,111.88687043670356,2023-09-21,Canada,pending,56.0
+154,Frank Miller,customer154@example.com,(555) 0103,979.1421212598016,2023-02-05,Usa,,
+224,Jane Doe,customer224@example.com,,115.51294282738762,2023-12-18,,ACTIVE,25.0
+311,Bob Johnson,customer311@example.com,,371.0502769627328,2023-09-19,Usa,inactive,63.0
+370,Eve Davis,customer370@example.com,555-0101,839.447477930413,2023-01-06,Usa,pending,
+38,Eve Davis,customer38@example.com,555-0102,577.4193407648148,2023-08-26,united kingdom,pending,73.0
+187,Charlie Brown,customer187@example.com,555-0102,342.5071985783367,2023-06-12,Usa,ACTIVE,32.0
+47,Jane Doe,customer47@example.com,555-0102,757.0889389415154,2023-12-22,united kingdom,Pending,37.0
+471,Eve Davis,customer471@example.com,555-0102,478.8381495507376,2023-12-14,Usa,pending,29.0
+395,Henry Wilson,customer395@example.com,(555) 0103,861.5255482537445,2023-01-20,united kingdom,inactive,66.0
+493,Frank Miller,customer493@example.com,(555) 0103,827.6615581418977,2023-03-19,Usa,Active,50.0
+189,Diana Prince,customer189@example.com,,369.4286200731396,2023-07-23,Usa,,59.0
+280,Eve Davis,customer280@example.com,555-0102,95.83815974356177,2023-11-06,UK,Active,58.0
+148,Grace Lee,customer148@example.com,(555) 0103,84.74833016585033,2023-08-19,Usa,Active,45.0
+465,Henry Wilson,customer465@example.com,(555) 0103,182.01594055449112,2023-04-25,,,31.0
+404,Charlie Brown,customer404@example.com,,932.2735934358,2023-08-20,UK,inactive,72.0
+92,John Smith,customer92@example.com,555-0102,839.1158811124672,2023-08-07,Usa,ACTIVE,57.0
+315,Diana Prince,customer315@example.com,(555) 0103,534.9624813085511,2023-07-10,united kingdom,inactive,31.0
+169,Eve Davis,customer169@example.com,,988.8414941358883,2023-03-27,Canada,ACTIVE,65.0
+2,Alice Williams,customer2@example.com,555.0105,927.184929353814,2023-09-24,united kingdom,Pending,64.0
+156,Charlie Brown,customer156@example.com,555-0101,868.3238224114083,2023-08-05,,inactive,37.0
+98,Eve Davis,customer98@example.com,555-01-04,746.8071553248559,2023-09-22,united kingdom,Pending,46.0
+163,Grace Lee,customer163@example.com,,345.87853343722907,2023-11-10,,Inactive,28.0
+449,John Smith,customer449@example.com,,93.2572422233048,2023-08-18,Canada,,
+16,Charlie Brown,customer16@example.com,555-0101,686.1522427829611,2023-06-22,,Pending,45.0
+225,Eve Davis,customer225@example.com,555-01-04,148.61835327384452,2023-04-04,Usa,ACTIVE,45.0
+87,Bob Johnson,customer87@example.com,,911.579336273156,2023-10-13,Usa,inactive,35.0
+82,Grace Lee,customer82@example.com,(555) 0103,380.6910160232178,2023-08-12,,pending,63.0
+300,Grace Lee,customer300@example.com,(555) 0103,733.7134347436988,2023-03-13,,Inactive,30.0
+444,Alice Williams,customer444@example.com,,11.108910365308391,2023-07-26,united kingdom,inactive,61.0
+123,Bob Johnson,customer123@example.com,555-01-04,464.3990981368429,2023-06-01,UK,,41.0
+170,Jane Doe,customer170@example.com,,607.1654281552098,2023-11-19,,,73.0
+79,John Smith,customer79@example.com,(555) 0103,32.79237873976113,2023-11-24,Canada,Active,62.0
+466,Henry Wilson,customer466@example.com,555-01-04,773.1455674555799,2023-08-10,Canada,,27.0
+320,Jane Doe,customer320@example.com,555.0105,543.0174754769797,2023-04-18,,Inactive,78.0
+243,Alice Williams,customer243@example.com,555.0105,838.7082007959991,2023-02-28,Usa,Pending,29.0
+293,Alice Williams,customer293@example.com,,53.723783332999176,2023-10-28,Usa,pending,
+361,Alice Williams,customer361@example.com,555.0105,592.668686683513,2023-08-19,Usa,,70.0
+274,Eve Davis,customer274@example.com,555-0102,321.4505912413168,2023-03-03,Usa,Inactive,60.0
+239,Grace Lee,customer239@example.com,,192.52721147217358,2023-10-29,Usa,Active,73.0
+114,Bob Johnson,customer114@example.com,(555) 0103,173.85818425369408,2023-06-30,,Active,29.0
+278,Bob Johnson,customer278@example.com,555-01-04,693.6546301211841,2023-07-17,,Active,
+289,John Smith,customer289@example.com,555-01-04,650.1982699259918,2023-07-20,UK,inactive,
+462,John Smith,customer462@example.com,555-01-04,187.70235018959505,2023-12-07,Canada,pending,
+49,Eve Davis,customer49@example.com,555-0101,541.1165379697488,2023-08-28,Canada,inactive,66.0
+165,John Smith,customer165@example.com,555-01-04,888.5858776883679,2023-08-03,UK,Active,55.0
+72,Charlie Brown,customer72@example.com,(555) 0103,109.78665698572763,2023-03-15,,ACTIVE,18.0
+349,Jane Doe,customer349@example.com,555.0105,854.2936034749823,2023-06-04,united kingdom,pending,72.0
+500,Bob Johnson,customer500@example.com,(555) 0103,963.6042869057305,2023-01-28,united kingdom,pending,60.0
+335,Henry Wilson,customer335@example.com,555-0101,62.156997617456305,2023-08-25,Canada,,70.0
+89,Frank Miller,customer89@example.com,,243.5469742491304,2023-06-26,Usa,,53.0
+340,Henry Wilson,customer340@example.com,555-01-04,278.970101358314,2023-07-23,Usa,Active,70.0
+480,Grace Lee,customer480@example.com,555-0101,389.7761378015656,2023-02-14,united kingdom,Pending,33.0
+130,Eve Davis,customer130@example.com,555-0101,403.3449343030219,2023-07-07,Usa,ACTIVE,62.0
+166,John Smith,customer166@example.com,(555) 0103,561.1543689355324,2023-08-07,Canada,,
+373,Alice Williams,customer373@example.com,555-0102,129.13537441464598,2023-08-09,UK,inactive,74.0
+238,Grace Lee,customer238@example.com,,959.0409055400884,2023-12-10,Usa,pending,22.0
+91,Bob Johnson,customer91@example.com,555-01-04,194.4576706991795,2023-07-21,Usa,ACTIVE,45.0
+495,Charlie Brown,customer495@example.com,555.0105,841.5476930257472,2023-10-03,Canada,Active,75.0
+494,Eve Davis,customer494@example.com,555-0102,305.3906866800927,2023-06-26,Usa,ACTIVE,72.0
+472,Alice Williams,customer472@example.com,555-0102,67.34125595321031,2023-10-29,Usa,inactive,71.0
+408,Henry Wilson,customer408@example.com,555-01-04,15.031318419845707,2023-06-04,,ACTIVE,38.0
+199,Jane Doe,customer199@example.com,555-0102,123.09554666119287,2023-02-02,Canada,pending,39.0
+226,Henry Wilson,customer226@example.com,555-01-04,271.0469646082703,2023-08-30,Usa,inactive,22.0
+20,Jane Doe,customer20@example.com,(555) 0103,627.8605287400193,2023-02-03,UK,Pending,51.0
+406,Eve Davis,customer406@example.com,555-01-04,288.57705097175153,2023-03-04,Usa,Active,64.0
+70,Grace Lee,customer70@example.com,555-0101,912.7338847545351,2023-04-28,Canada,Inactive,63.0
+422,John Smith,customer422@example.com,555-0101,548.3411189174252,2023-02-03,UK,Pending,45.0
+386,Henry Wilson,customer386@example.com,555-0102,520.0954450715786,2023-09-02,Canada,Inactive,
+237,Eve Davis,customer237@example.com,555.0105,360.33266279563696,2023-08-08,Usa,Inactive,28.0
+75,Frank Miller,customer75@example.com,555-01-04,597.0332762062334,2023-01-16,Usa,,78.0
+200,Diana Prince,customer200@example.com,555-0101,570.1188537668949,2023-02-07,Usa,,54.0
+476,Frank Miller,customer476@example.com,555-0102,679.2917346148869,2023-07-04,Usa,ACTIVE,42.0
+497,Eve Davis,customer497@example.com,,237.7531462011196,2023-04-19,Canada,,74.0
+116,Charlie Brown,customer116@example.com,555-01-04,318.3584394214298,2023-05-28,Usa,Pending,
+362,Henry Wilson,customer362@example.com,,982.5072099292809,2023-01-22,Usa,pending,41.0
+184,John Smith,customer184@example.com,555-0101,706.9066737871243,2023-07-14,united kingdom,Active,67.0
+117,Henry Wilson,customer117@example.com,555-01-04,782.6907504706268,2023-03-22,,inactive,72.0
+491,John Smith,customer491@example.com,555.0105,855.6676767169504,2023-07-26,UK,inactive,24.0
+11,Alice Williams,customer11@example.com,,243.33482860434975,2023-09-30,UK,Inactive,37.0
+218,Eve Davis,customer218@example.com,555-0101,816.9038841184325,2023-09-25,Usa,Pending,28.0
+5,Eve Davis,customer5@example.com,555.0105,783.6993369339008,2023-12-19,,Inactive,43.0
+469,Bob Johnson,customer469@example.com,555-0101,773.2744496068142,2023-10-30,united kingdom,pending,20.0
+448,John Smith,customer448@example.com,555.0105,201.20153594142013,2023-07-17,Usa,Pending,71.0
+35,Eve Davis,customer35@example.com,555-0101,879.8428242197039,2023-07-23,Canada,,31.0
+173,Charlie Brown,customer173@example.com,555-0102,944.9656283215007,2023-06-13,Canada,inactive,21.0
+128,Charlie Brown,customer128@example.com,555-0101,306.5999526488123,2023-07-04,Canada,ACTIVE,35.0
+336,Bob Johnson,customer336@example.com,555-0101,97.65797650748196,2023-03-05,Usa,pending,56.0
+374,Bob Johnson,customer374@example.com,555-0101,56.47590357633487,2023-05-04,Canada,inactive,43.0
+40,Alice Williams,customer40@example.com,555.0105,754.8790888384344,2023-08-04,Canada,inactive,30.0
+57,Jane Doe,customer57@example.com,555-01-04,774.1631607922626,2023-07-28,Usa,inactive,34.0
+353,Bob Johnson,customer353@example.com,555.0105,911.235711036959,2023-06-22,Usa,Active,27.0
+120,Grace Lee,customer120@example.com,555-01-04,220.553976497814,2023-11-03,UK,Active,66.0
+407,Bob Johnson,customer407@example.com,555.0105,260.12260302127623,2023-05-30,Canada,pending,40.0
+268,Alice Williams,customer268@example.com,(555) 0103,85.17407626592586,2023-07-20,Usa,inactive,76.0
+181,Eve Davis,customer181@example.com,,131.54912076608142,2023-05-19,Usa,pending,63.0
+313,Grace Lee,customer313@example.com,555-01-04,486.25126500564556,2023-12-23,Canada,ACTIVE,47.0
+13,Frank Miller,customer13@example.com,(555) 0103,908.7874691578908,2023-11-13,Usa,ACTIVE,68.0
+39,Jane Doe,customer39@example.com,555-0102,997.7156897646048,2023-04-29,,inactive,66.0
+103,Eve Davis,customer103@example.com,(555) 0103,420.3595383615914,2023-05-01,Usa,ACTIVE,56.0
+84,John Smith,customer84@example.com,,86.54785483389938,2023-12-08,Usa,,64.0
+69,Eve Davis,customer69@example.com,555-01-04,618.8007605211279,2023-05-11,Canada,inactive,28.0
+216,John Smith,customer216@example.com,555-0102,824.3580371525571,2023-02-22,UK,inactive,
+396,John Smith,customer396@example.com,,462.8577767959702,2023-05-19,,Pending,73.0
+227,Bob Johnson,customer227@example.com,(555) 0103,273.8334094371734,2023-12-24,Usa,inactive,34.0
+323,Jane Doe,customer323@example.com,555-0101,524.9664287799445,2023-12-01,Usa,Active,34.0
+107,Bob Johnson,customer107@example.com,,486.0286083081828,2023-06-08,Usa,Inactive,19.0
+367,Frank Miller,customer367@example.com,555.0105,745.9192946646879,2023-06-11,united kingdom,Active,76.0
+22,John Smith,customer22@example.com,(555) 0103,444.3572286344557,2023-06-15,UK,Pending,18.0
+171,Bob Johnson,customer171@example.com,555-01-04,808.7816474729601,2023-06-11,Canada,inactive,
+348,Eve Davis,customer348@example.com,(555) 0103,304.03284769033337,2023-02-24,Usa,,48.0
+308,Charlie Brown,customer308@example.com,555-01-04,527.2102303104573,2023-07-14,Canada,pending,40.0
+66,Henry Wilson,customer66@example.com,555-01-04,235.07747319968715,2023-11-19,Canada,inactive,
+180,Diana Prince,customer180@example.com,555-0102,849.6468145122146,2023-05-12,Usa,,44.0
+77,Grace Lee,customer77@example.com,(555) 0103,919.563017038139,2023-12-14,Canada,inactive,78.0
+249,Alice Williams,customer249@example.com,555-0101,402.68287932153373,2023-02-03,UK,pending,72.0
+258,Bob Johnson,customer258@example.com,(555) 0103,955.6839495962441,2023-04-26,Canada,Active,
+337,Jane Doe,customer337@example.com,555.0105,47.22080547419826,2023-05-12,UK,,
+355,Henry Wilson,customer355@example.com,,118.372922692324,2023-03-07,Usa,,69.0
+241,Bob Johnson,customer241@example.com,(555) 0103,773.2760662801237,2023-07-30,united kingdom,Active,58.0
+232,John Smith,customer232@example.com,(555) 0103,577.5614343976066,2023-11-12,,Inactive,71.0
+420,Eve Davis,customer420@example.com,555.0105,575.6057525003783,2023-03-30,,inactive,34.0
+273,Frank Miller,customer273@example.com,555.0105,112.06280855360743,2023-08-03,united kingdom,,39.0
+262,Jane Doe,customer262@example.com,555-0102,350.93989472379087,2023-08-25,,Pending,52.0
+155,Grace Lee,customer155@example.com,555-01-04,841.3909708620049,2023-05-28,Canada,pending,64.0
+141,Henry Wilson,customer141@example.com,555-0102,532.371252843338,2023-05-21,,ACTIVE,49.0
+334,Eve Davis,customer334@example.com,,19.390579292213094,2023-10-17,Canada,inactive,
+302,Frank Miller,customer302@example.com,555-0101,124.12920103481153,2023-03-13,Canada,,22.0
+447,Bob Johnson,customer447@example.com,555-01-04,266.1014473909289,2023-05-25,UK,Inactive,71.0
+296,John Smith,customer296@example.com,,560.2485156228079,2023-01-27,,Inactive,54.0
+325,Jane Doe,customer325@example.com,555-0102,877.898724083825,2023-02-01,Canada,,33.0
+56,Alice Williams,customer56@example.com,555.0105,414.8656253146383,2023-02-07,Usa,,58.0
+291,Charlie Brown,customer291@example.com,555-01-04,61.0798485921229,2023-09-19,Canada,Active,47.0
+310,John Smith,customer310@example.com,,653.6656769387959,2023-02-02,Canada,inactive,51.0
+473,Henry Wilson,customer473@example.com,555-01-04,83.94747358027547,2023-09-01,united kingdom,Inactive,41.0
+168,Alice Williams,customer168@example.com,555-01-04,807.261817684326,2023-03-28,,inactive,51.0
+324,Henry Wilson,customer324@example.com,(555) 0103,432.5488860883157,2023-06-04,Usa,Inactive,51.0
+259,Grace Lee,customer259@example.com,,163.12541947440386,2023-11-14,Usa,,64.0
+443,John Smith,customer443@example.com,555-0102,909.6142961766742,2023-07-29,Usa,Active,45.0
+152,Eve Davis,customer152@example.com,555-0102,531.3126819927008,2023-01-26,Canada,Inactive,73.0
+24,Diana Prince,customer24@example.com,555-0102,361.80882730021193,2023-01-07,,pending,23.0
+277,John Smith,customer277@example.com,555-01-04,792.1134232039375,2023-07-02,united kingdom,Inactive,59.0
+460,Bob Johnson,customer460@example.com,555.0105,841.7202877138066,2023-12-16,UK,Active,63.0
+205,Bob Johnson,customer205@example.com,(555) 0103,517.3330793231023,2023-09-08,Usa,ACTIVE,68.0
+219,Jane Doe,customer219@example.com,555-01-04,503.10984597589567,2023-03-01,Usa,,68.0
+393,John Smith,customer393@example.com,555-0102,44.51650863148666,2023-06-16,Usa,pending,68.0
+458,Bob Johnson,customer458@example.com,555-0101,28.243441550835293,2023-02-26,Usa,inactive,64.0
+211,Bob Johnson,customer211@example.com,555-01-04,427.486895207749,2023-07-10,,inactive,38.0
+134,Diana Prince,customer134@example.com,555-01-04,473.54951015696554,2023-08-10,UK,pending,49.0
+52,John Smith,customer52@example.com,(555) 0103,607.9182933517874,2023-11-28,,pending,71.0
+133,Bob Johnson,customer133@example.com,555-0101,355.8931290588397,2023-05-25,Usa,,
+231,Alice Williams,customer231@example.com,555-0102,499.3311116368887,2023-10-31,Usa,,28.0
+138,Charlie Brown,customer138@example.com,555-0101,591.5790681917335,2023-12-29,Canada,pending,
+4,Charlie Brown,customer4@example.com,555-0101,57.61369752444681,2023-11-09,Canada,Active,36.0
+322,Eve Davis,customer322@example.com,555-01-04,740.4772092374598,2023-03-09,,ACTIVE,57.0
+376,Frank Miller,customer376@example.com,555.0105,46.36461805234749,2023-10-10,Canada,,55.0
+269,John Smith,customer269@example.com,555-0101,86.9876906381675,2023-08-06,Canada,pending,30.0
+7,Bob Johnson,customer7@example.com,555-0101,752.9969055176604,2023-06-11,Usa,Inactive,39.0
+145,John Smith,customer145@example.com,555-01-04,767.7027182555782,2023-10-11,Usa,Pending,56.0
+176,John Smith,customer176@example.com,555-0101,330.7501604957316,2023-06-14,Canada,Pending,76.0
+93,Charlie Brown,customer93@example.com,(555) 0103,338.82494852838954,2023-10-14,Canada,inactive,32.0
+332,Eve Davis,customer332@example.com,,933.2640103310003,2023-07-08,Usa,Active,25.0
+67,Alice Williams,customer67@example.com,555.0105,429.36089379627805,2023-01-31,Canada,Active,28.0
+51,Bob Johnson,customer51@example.com,555-0102,462.4302170888615,2023-12-14,united kingdom,pending,79.0
+342,Grace Lee,customer342@example.com,555-0102,100.78234176031583,2023-04-21,Usa,Pending,38.0
+214,Alice Williams,customer214@example.com,555-01-04,694.3096390335578,2023-02-15,Canada,inactive,18.0
+3,Frank Miller,customer3@example.com,555-0101,724.3805852437644,2023-11-28,united kingdom,,32.0
+416,Charlie Brown,customer416@example.com,,70.9018559768427,2023-12-22,Usa,Inactive,38.0
+357,Henry Wilson,customer357@example.com,555.0105,133.1931817238878,2023-03-26,Usa,,49.0
+326,Henry Wilson,customer326@example.com,555.0105,423.3310231876132,2023-10-25,,ACTIVE,77.0
+78,Grace Lee,customer78@example.com,555.0105,792.1837907528459,2023-02-15,,ACTIVE,50.0
+271,Alice Williams,customer271@example.com,555-0101,968.0223943250156,2023-06-12,united kingdom,,78.0
+44,Grace Lee,customer44@example.com,,212.49914723776865,2023-06-19,united kingdom,inactive,79.0
+418,Henry Wilson,customer418@example.com,,520.9182302391805,2023-09-27,Usa,Inactive,54.0
+382,Frank Miller,customer382@example.com,555-01-04,523.0777630096283,2023-05-06,Canada,ACTIVE,
+314,Henry Wilson,customer314@example.com,555-0102,886.1483729580483,2023-10-28,,Pending,20.0
+45,Henry Wilson,customer45@example.com,,716.923441401378,2023-09-06,,,25.0
+198,Alice Williams,customer198@example.com,555-0101,781.9611870401504,2023-03-07,Usa,Inactive,34.0
+162,Frank Miller,customer162@example.com,555-0101,599.0984899034164,2023-05-26,Usa,,60.0
+119,Eve Davis,customer119@example.com,555.0105,227.89624194028607,2023-03-16,Usa,ACTIVE,79.0
+487,John Smith,customer487@example.com,,167.34890044398895,2023-01-07,Usa,Pending,64.0
+252,Alice Williams,customer252@example.com,555-01-04,488.9173925130886,2023-08-26,Usa,Inactive,40.0
+499,Grace Lee,customer499@example.com,555-0102,869.3737793069699,2023-03-04,united kingdom,inactive,33.0
+479,Charlie Brown,customer479@example.com,(555) 0103,598.4519006362599,2023-10-11,,Pending,45.0
+297,Charlie Brown,customer297@example.com,555-0101,478.47801690052006,2023-12-15,UK,inactive,18.0
+318,Frank Miller,customer318@example.com,555.0105,576.7034818391311,2023-10-19,Canada,Active,51.0
+327,John Smith,customer327@example.com,555-0102,467.32342206983174,2023-05-17,Usa,ACTIVE,30.0
+196,Frank Miller,customer196@example.com,555-0101,227.3154198301491,2023-08-22,Usa,ACTIVE,76.0
+17,Jane Doe,customer17@example.com,,457.42911528604884,2023-07-18,UK,Pending,21.0
+122,Henry Wilson,customer122@example.com,(555) 0103,975.7859025259287,2023-12-17,Canada,pending,
+108,Frank Miller,customer108@example.com,555-0101,919.2701776899081,2023-01-16,Usa,Active,55.0
+478,Grace Lee,customer478@example.com,555-0102,651.0979069678885,2023-01-30,Canada,,
+74,Charlie Brown,customer74@example.com,555-0101,728.8346302017768,2023-10-27,Canada,Inactive,36.0
+450,Bob Johnson,customer450@example.com,555.0105,333.16924073826004,2023-09-04,Usa,Active,38.0
+380,Bob Johnson,customer380@example.com,555-0101,633.4801437661915,2023-05-27,Usa,Pending,23.0
+358,Henry Wilson,customer358@example.com,,956.8515405838308,2023-03-17,,inactive,31.0
+178,Jane Doe,customer178@example.com,555-0102,636.908367161851,2023-12-13,united kingdom,pending,21.0
+140,Alice Williams,customer140@example.com,(555) 0103,716.91860779193,2023-05-12,Usa,pending,65.0
+351,Eve Davis,customer351@example.com,555-0102,593.2174491261859,2023-03-27,Canada,inactive,49.0
+135,Jane Doe,customer135@example.com,555.0105,628.7262271805417,2023-08-07,,Active,45.0
+1,Eve Davis,customer1@example.com,555-0101,385.4362991141624,2023-01-12,UK,,63.0
+217,Frank Miller,customer217@example.com,,534.3650618685302,2023-12-10,Canada,Pending,30.0
+88,John Smith,customer88@example.com,555.0105,131.58267402727645,2023-08-12,UK,,50.0
+463,Henry Wilson,customer463@example.com,555.0105,756.161845710014,2023-07-29,UK,pending,41.0
+68,Frank Miller,customer68@example.com,,295.05032031096886,2023-10-28,Usa,Pending,36.0
